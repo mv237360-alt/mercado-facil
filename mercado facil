@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mercado Fácil Piripiri</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Mercado Fácil Piripiri</h1>
+        <p>Todos os mercados da cidade em um só lugar.</p>
+
+        <nav>
+            <a href="#">Início</a>
+            <a href="#">Mercados</a>
+            <a href="#">Promoções</a>
+            <a href="#">Contato</a>
+        </nav>
+    </header>
+
+    <main>
+
+        <section>
+            <h2>Faça suas compras sem sair de casa</h2>
+
+            <p>
+                Escolha produtos dos mercados de Piripiri e receba tudo na sua casa com rapidez e praticidade.
+            </p>
+
+            <button>Ver Mercados</button>
+        </section>
+<section>
+    <h2>Encontre seu mercado</h2>
+
+    <input type="text" placeholder="Pesquise um mercado ou produto">
+
+    <button>Buscar</button>
+</section>
+
+<section>
+    <h2>Mercados parceiros</h2>
+
+    <div class="mercados">
+        <div class="card">
+            <h3>Mercado Exemplo 1</h3>
+            <p>Alimentos, bebidas e produtos de limpeza.</p>
+        </div>
+
+        <div class="card">
+            <h3>Mercado Exemplo 2</h3>
+            <p>Ofertas especiais e entrega rápida.</p>
+        </div>
+
+        <div class="card">
+            <h3>Mercado Exemplo 3</h3>
+            <p>Grande variedade de produtos.</p>
+        </div>
+    </div>
+</section>
+       
+        <section>
+            <h2>Vantagens</h2>
+
+            <ul>
+                <li>Compras sem sair de casa</li>
+                <li>Entrega rápida</li>
+                <li>Comparação entre mercados</li>
+                <li>Mais oportunidades para entregadores</li>
+            </ul>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>© 2026 Mercado Fácil Piripiri</p>
+    </footer>
+
+</body>
+</html>
